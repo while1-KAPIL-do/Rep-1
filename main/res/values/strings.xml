@@ -1,0 +1,80 @@
+<resources>
+
+    <string name="app_name">AdMob</string>
+<!-- Sample id -->
+    <string name="sample_app_Id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="sample_banner_addId_1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="sample_interstitial_addId">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="sample_rewarded_addId">ca-app-pub-3940256099942544/5224354917</string>
+    <!-- app 01 - name -->
+    <string name="sample_Id_name">Sample Ads</string>
+    <string name="Sample_banner_addId_1_name">Banner Sample </string>
+    <string name="sample_interstitial_addId_name">Interstitial Sample </string>
+    <string name="sample_rewarded_addId_name">Rewarded Sample </string>
+
+    <!--  pw  -->
+    <!-- app 01 - ids -->
+    <string name="app_01_Id">ca-app-pub-2940445491035976~1583085117</string>
+    <string name="app_01_banner_addId_1">ca-app-pub-2940445491035976/6223778527</string>
+    <string name="app_01_banner_addId_2">ca-app-pub-2940445491035976/7153716812</string>
+    <string name="app_01_banner_addId_3">ca-app-pub-2940445491035976/6606921909</string>
+    <string name="app_01_banner_addId_4">ca-app-pub-2940445491035976/8998540700</string>
+    <string name="app_01_banner_addId_5">ca-app-pub-2940445491035976/3050820270</string>
+    <string name="app_01_banner_addId_6">ca-app-pub-2940445491035976/3345778835</string>
+    <string name="app_01_banner_addId_7">ca-app-pub-2940445491035976/9719615496</string>
+    <string name="app_01_banner_addId_8">ca-app-pub-2940445491035976/4467288818</string>
+    <string name="app_01_banner_addId_9">ca-app-pub-2940445491035976/9616523776</string>
+    <string name="app_01_banner_addId_10">ca-app-pub-2940445491035976/7013561105</string>
+    <string name="app_01_interstitial_addId">ca-app-pub-2940445491035976/3476010467</string>
+    <string name="app_01_rewarded_addId">ca-app-pub-2940445491035976/5494409965</string>
+    <string name="app_01_rewarded_addId2">ca-app-pub-2940445491035976/6185874215</string>
+
+    <!-- app 01 - name -->
+    <string name="app_01_Id_name">PW</string>
+    <string name="app_01_banner_addId_1_name">banner_1</string>
+    <string name="app_01_banner_addId_2_name">banner_2</string>
+    <string name="app_01_banner_addId_3_name">banner_3</string>
+    <string name="app_01_banner_addId_4_name">banner_4</string>
+    <string name="app_01_banner_addId_5_name">banner_5</string>
+    <string name="app_01_banner_addId_6_name">banner_6</string>
+    <string name="app_01_banner_addId_7_name">banner_7</string>
+    <string name="app_01_banner_addId_8_name">banner_8</string>
+    <string name="app_01_banner_addId_9_name">banner_9</string>
+    <string name="app_01_banner_addId_10_name">banner_10</string>
+    <string name="app_01_interstitial_addId_name">interstitial_1</string>
+    <string name="app_01_rewarded_addId_name">rewarded_1</string>
+
+<!--  pw2  -->
+    <!-- app 02 - ids -->
+    <string name="app_02_Id">ca-app-pub-2940445491035976~2311004543</string>
+    <string name="app_02_banner_addId_1">ca-app-pub-2940445491035976/2494412347</string>
+    <string name="app_02_banner_addId_2">ca-app-pub-2940445491035976/7423305395</string>
+    <string name="app_02_banner_addId_3">ca-app-pub-2940445491035976/8493269511</string>
+    <string name="app_02_banner_addId_4">ca-app-pub-2940445491035976/6788880578</string>
+    <string name="app_02_banner_addId_5">ca-app-pub-2940445491035976/5918652039</string>
+    <string name="app_02_banner_addId_6">ca-app-pub-2940445491035976/3921800814</string>
+    <string name="app_02_banner_addId_7">ca-app-pub-2940445491035976/9223472224</string>
+    <string name="app_02_banner_addId_8">ca-app-pub-2940445491035976/2931210821</string>
+    <string name="app_02_banner_addId_9">ca-app-pub-2940445491035976/6597308883</string>
+    <string name="app_02_banner_addId_10">ca-app-pub-2940445491035976/1979407022</string>
+    <string name="app_02_interstitial_addId">ca-app-pub-2940445491035976/5535508655</string>
+    <string name="app_02_rewarded_addId">ca-app-pub-2940445491035976/9419338375</string>
+
+    <!-- app 02 - name -->
+    <string name="app_02_Id_name">PW 2</string>
+    <string name="app_02_banner_addId_1_name">banner_1</string>
+    <string name="app_02_banner_addId_2_name">banner_2</string>
+    <string name="app_02_banner_addId_3_name">banner_3</string>
+    <string name="app_02_banner_addId_4_name">banner_4</string>
+    <string name="app_02_banner_addId_5_name">banner_5</string>
+    <string name="app_02_banner_addId_6_name">banner_6</string>
+    <string name="app_02_banner_addId_7_name">banner_7</string>
+    <string name="app_02_banner_addId_8_name">banner_8</string>
+    <string name="app_02_banner_addId_9_name">banner_9</string>
+    <string name="app_02_banner_addId_10_name">banner_10</string>
+    <string name="app_02_interstitial_addId_name">interstitial_1</string>
+    <string name="app_02_rewarded_addId_name">rewarded_1</string>
+
+
+
+</resources>
